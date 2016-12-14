@@ -1,5 +1,9 @@
 [
     {
+        "name": "Niftio",
+        "colors": ["#2c82c9", "28b884"]
+    },
+    {
         "name": "Nimvelo",
         "colors": ["#314755", "#26a0da"]
     },
